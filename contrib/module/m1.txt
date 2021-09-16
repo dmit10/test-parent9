@@ -1,1 +1,2 @@
 this is m1.txtline
+conflicting change
