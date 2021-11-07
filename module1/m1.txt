@@ -2,3 +2,5 @@ this is m1.txtline
 conflicting change
 conflicting change
 conflicting change
+line
+line
