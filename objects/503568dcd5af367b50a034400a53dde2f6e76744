@@ -1,0 +1,12 @@
+[module "aeed691b-04a2-3155-a183-6fc01c44ba76"]
+	conflict = request-pull
+	path = module
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/main
+	url = agnostic://github-cloud/390413016
+[map "a23dd691-a433-31b4-b65e-3fe6ee458465"]
+	object = 3f9b18d712907a808582907e36898dbaf80bd402
+	path = module
+	stage = sync
+	type = extract module
